@@ -13,3 +13,12 @@ function absoluteValue(num){
 }
 // absoluteValue(-4)
 
+function multiplesOfFourOrSeven (){
+    for (let i = 0; i <= 100; i++){
+        if( i % 4 === 0 || i % 7 === 0){
+            console.log(i);
+        }
+    }
+}
+
+
