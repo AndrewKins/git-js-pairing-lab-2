@@ -23,10 +23,12 @@ function multiplesOfFourOrSeven (){
 // multiplesOfFourOrSeven()
 
 function square(int){
-    if (square(int) === (% != 0))
-        return square(int);
-     else 
-            return int**2
+    let int = 5;
+    let num = Math.sqrt(int);
+    if (num % 1 == 0)
+        console.log(Math.sqrt(int));
+    else 
+        console.log(int**2);
 }
 
 square(5)
