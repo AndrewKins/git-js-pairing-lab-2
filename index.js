@@ -11,7 +11,7 @@ function absoluteValue(num){
     else 
         console.log("null") ;
 }
-// absoluteValue(-4)
+// // absoluteValue(-4)
 
 function multiplesOfFourOrSeven (){
     for (let i = 0; i <= 100; i++){
@@ -20,5 +20,13 @@ function multiplesOfFourOrSeven (){
         }
     }
 }
+// multiplesOfFourOrSeven()
 
+function square(int){
+    if (square(int) === (% != 0))
+        return square(int);
+     else 
+            return int**2
+}
 
+square(5)
