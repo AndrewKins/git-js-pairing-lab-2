@@ -3,5 +3,13 @@ function OneHundredToFive (){
         console.log(i);
     }
 }
-OneHundredToFive ();
+// OneHundredToFive ();
+
+function absoluteValue(num){
+    if(a===parseInt((num))
+         console.log(Math.abs(num));
+    else 
+        console.log("null") ;
+}
+// absoluteValue(-4)
 
